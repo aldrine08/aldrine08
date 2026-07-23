@@ -116,14 +116,22 @@ Building technology that empowers people and organizations across Africa and bey
 ```
 
 ---
-````markdown
+````
 
-# 🚀 WRLD SOLUTIONS // ENGINEER CONSOLE
+🚀 WRLD SOLUTIONS // ENGINEER CONSOLE
 
 ```bash
 ┌──────────────────────────────────────────────┐
 │      WRLD SOLUTIONS :: MISSION CONTROL       │
 └──────────────────────────────────────────────┘
+
+<div align="center">
+
+⚡ Building scalable systems • 🤖 Automating workflows • 🌍 Engineering the future with WRLD SOLUTIONS
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer" />
+
+</div>
 
 guest@wrldsolutions:~$ initialize-profile
 
