@@ -118,41 +118,68 @@ Building technology that empowers people and organizations across Africa and bey
 ---
 ````markdown
 
-🚀 INITIALIZING ENGINEER PROFILE
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F7FF&center=false&vCenter=true&multiline=true&width=850&height=120&lines=booting+wrld.solutions+kernel...;authenticating+engineer+identity...;loading+skills+and+mission...;system+ready+%E2%9C%94" alt="Typing SVG" />
+# 🚀 WRLD SOLUTIONS // ENGINEER CONSOLE
 
 ```bash
-guest@wrldsolutions:~$ whoami
-Aldrine Etyang
+┌──────────────────────────────────────────────┐
+│      WRLD SOLUTIONS :: MISSION CONTROL       │
+└──────────────────────────────────────────────┘
 
-guest@wrldsolutions:~$ cat /roles
+guest@wrldsolutions:~$ initialize-profile
 
-✔ Founder
-✔ Full Stack Engineer
-✔ Solution Architect
-✔ AI Automation Engineer
-✔ Linux Enthusiast
-✔ Laravel Developer
-✔ Next.js Developer
-✔ Open Source Contributor
-✔ Problem Solver
+[✓] Loading Engineer Identity...
+[✓] Loading Technical Expertise...
+[✓] Loading Innovation Engine...
+[✓] Loading Future Technologies...
 
-guest@wrldsolutions:~$ ./launch_mission.sh
+------------------------------------------------
 
-[████████████████████████████] 100%
-Mission Loaded Successfully ✔
-Launching Digital Future...
-````
+👤 USER: Aldrine Etyang
 
-<div align="center">
+🛠 ROLE MATRIX
 
-⚡ Building scalable systems • 🤖 Automating workflows • 🌍 Engineering the future with **WRLD SOLUTIONS**
+▸ Founder & Builder
+▸ Full Stack Engineer
+▸ Solution Architect
+▸ AI Automation Engineer
+▸ Laravel Developer
+▸ Next.js Developer
+▸ Linux Enthusiast
+▸ Open Source Contributor
+▸ Problem Solver
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer" />
+------------------------------------------------
 
-</div>
-```
+⚡ CURRENT STATUS
+
+Building        : Smart Staff Management Platform
+Developing      : RealTrack Logistics Platform
+Creating        : WRLD SOLUTIONS Ecosystem
+Automating      : Business Workflows with AI
+Exploring       : Emerging Technologies
+
+------------------------------------------------
+
+SYSTEM CHECK
+
+Backend         ████████████████████ 100%
+Frontend        ████████████████████ 100%
+Cloud           ███████████████████░ 95%
+Automation      ████████████████████ 100%
+Innovation      ████████████████████ ∞
+
+------------------------------------------------
+
+MISSION STATUS
+
+████████████████████████████████████ 100%
+
+🚀 Launching Digital Solutions...
+🌍 Engineering the Future...
+🤖 Automating Everything Possible...
+
+guest@wrldsolutions:~$ _
+``````
 
 
 ---
