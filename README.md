@@ -33,6 +33,16 @@
 
 </p>
 
+| Project | Status |
+|----------|--------|
+| 🚚 RealTrack | 🟢 Active Development |
+| 👨‍💼 Smart Staff Management Platform | 🟢 Active Development |
+| 🌍 WRLD SOLUTIONS Website | 🟢 Active Development |
+| 🤖 AI Automation Lab | 🟢 Research & Development |
+| ☁ Cloud Infrastructure | 🟢 Learning |
+| 🚀 Open Source Projects | 🟢 Ongoing |
+
+
 ---
 
 # 🌍 SYSTEM STATUS
