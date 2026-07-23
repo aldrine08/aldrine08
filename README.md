@@ -1,315 +1,232 @@
-<!-- ========================================================= -->
-<!--                     ALDRINE README                         -->
-<!-- ========================================================= -->
+<!-- ======================================================================== -->
+<!--                                                                          -->
+<!--                █     █░ ██▀███   ██▓    ▓█████▄                           -->
+<!--                ▓█░ █ ░█░▓██ ▒ ██▒▓██▒    ▒██▀ ██▌                          -->
+<!--                ▒█░ █ ░█ ▓██ ░▄█ ▒▒██░    ░██   █▌                          -->
+<!--                ░█░ █ ░█ ▒██▀▀█▄  ▒██░    ░▓█▄   ▌                          -->
+<!--                ░░██▒██▓ ░██▓ ▒██▒░██████▒░▒████▓                           -->
+<!--                ░ ▓░▒ ▒  ░ ▒▓ ░▒▓░░ ▒░▓  ░ ▒▒▓  ▒                           -->
+<!--                                                                          -->
+<!--              WRLD SOLUTIONS • SOFTWARE ENGINEERING • AI                  -->
+<!--                                                                          -->
+<!-- ======================================================================== -->
 
 <h1 align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=30&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hello+World+👋;I'm+Aldrine+Etyang;Full-Stack+Software+Engineer;Laravel+•+Next.js+•+AI+Automation;Building+Digital+Solutions+That+Matter" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Hello+World+👋;I'm+Aldrine+Etyang;Founder+of+WRLD+SOLUTIONS;Enterprise+Software+Engineer;AI+Automation+Engineer;Laravel+•+Next.js+•+Linux+•+Cloud;Building+Technology+That+Solves+Real+Business+Problems" />
 
 </h1>
 
 <p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=220&section=header&text=WRLD%20Solutions&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:020024,20:090979,60:00d4ff,100:6f00ff&text=WRLD%20SOLUTIONS&fontColor=ffffff&fontSize=55&fontAlignY=40&animation=fadeIn"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge">
+
+<img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge">
 
 </p>
 
 ---
 
-# 👨🏽‍💻 whoami
+# 🌍 SYSTEM STATUS
 
-```bash
-guest@wrldsolutions:~$ whoami
+```text
 
-Name      :: Aldrine Etyang
+██████████████████████████████████████
 
-Role      :: Full Stack Software Engineer
+Developer Status
 
-Company   :: WRLD SOLUTIONS
+██████████████████████████████████████
 
-Education :: Business Information Technology
+Name            :: Aldrine Etyang
 
-Focus     :: Software Engineering
-             Automation
-             Artificial Intelligence
-             Cloud Infrastructure
+Company         :: WRLD SOLUTIONS
 
-Mission   :: Building software that solves
-             real-world business problems.
+Role            :: Founder | Full Stack Software Engineer
+
+Location        :: Nairobi, Kenya 🇰🇪
+
+Status          :: Online 🟢
+
+Mission         :: Engineering scalable digital
+                   ecosystems that transform
+                   businesses.
+
+Current Focus   :: Enterprise Software
+                   Artificial Intelligence
+                   Automation
+                   Cloud Infrastructure
+                   DevOps
+                   Cybersecurity
+
+Coffee Level    :: ████████████ 100%
+
+System Health   :: OPERATIONAL
+
+██████████████████████████████████████
 ```
 
 ---
 
-# 🚀 About Me
+# 🛰 DIGITAL IDENTITY
 
-I'm a passionate Full-Stack Software Engineer focused on designing scalable software platforms, intelligent automation systems, and business solutions that improve how organizations operate.
+```yaml
 
-I enjoy taking an idea from a blank document all the way to deployment—designing the user experience, building the backend architecture, integrating APIs, automating workflows, and continuously improving the product.
+name: Aldrine Etyang
 
-Currently, I'm building enterprise-grade software while expanding my knowledge in cloud technologies, DevOps, AI systems, cybersecurity, and modern software architecture.
+title: Founder & Software Engineer
 
----
+company: WRLD SOLUTIONS
 
-# 🏢 Currently Building
+education:
+  - Business Information Technology
 
-## 🚚 RealTrack
+specialization:
 
-An enterprise-grade Real-Time Tracking Platform for:
+- Enterprise Software
 
-- Logistics Companies
-- Courier Services
-- Delivery Companies
-- E-Commerce Businesses
-- Fleet Management
+- AI Engineering
 
-Features include
+- Automation Systems
 
-✔ Live GPS Tracking
+- Cloud Infrastructure
 
-✔ Dispatch Dashboard
+- DevOps
 
-✔ Rider Mobile Platform
+- System Architecture
 
-✔ Merchant Portal
+currently_learning:
 
-✔ Customer Tracking
+- Kubernetes
 
-✔ CRM Integrations
+- AWS
 
-✔ API Gateway
+- AI Agents
 
-✔ Notifications
+- Microservices
 
----
+- Machine Learning
 
-## 👨‍💼 Smart Staff Management Platform
+- Advanced Cybersecurity
 
-A modern HR Management System featuring
+operating_system:
 
-• Attendance
+- Ubuntu Linux ❤️
 
-• Payroll
+languages:
 
-• Leave Management
+- PHP
 
-• Asset Management
+- JavaScript
 
-• Department Management
+- TypeScript
 
-• Reports
+- Python
 
-• Employee Portal
+- SQL
 
-• Role-Based Access
+daily_tools:
 
-• GPS Clock In
+- Laravel
 
----
+- Next.js
 
-## 🌍 WRLD SOLUTIONS
+- React
 
-Technology company focused on building
+- PostgreSQL
 
-• Enterprise Software
+- Docker
 
-• AI Agents
+- n8n
 
-• Business Automation
+- Ollama
 
-• Workflow Automation
+- GitHub
 
-• Cloud Solutions
+life_goal:
 
-• Web Applications
+Building technology that empowers people and organizations across Africa and beyond.
 
-• Mobile Applications
+```
 
 ---
 
-# ⚙ Tech Stack
-
-## Frontend
-
-![NextJS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js)
-
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
-
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-
----
-
-## Backend
-
-Laravel
-
-PHP
-
-Node.js
-
-Python
-
-REST APIs
-
-JWT Authentication
-
-OAuth
-
----
-
-## Databases
-
-PostgreSQL
-
-MySQL
-
-SQLite
-
-Redis
-
----
-
-## DevOps
-
-Docker
-
-Git
-
-GitHub
-
-Linux
-
-Nginx
-
-Apache
-
-SSH
-
----
-
-## AI & Automation
-
-OpenAI
-
-Ollama
-
-n8n
-
-LangChain
-
-AI Agents
-
-Workflow Automation
-
-Prompt Engineering
-
----
-
-## Tools
-
-VS Code
-
-Figma
-
-Postman
-
-GitHub Actions
-
----
-
-# 🧠 Engineering Principles
-
-✔ Clean Architecture
-
-✔ Scalable Systems
-
-✔ API First
-
-✔ Security First
-
-✔ Performance
-
-✔ Automation
-
-✔ Maintainability
-
-✔ Documentation
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&column=4"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="YOUR_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
-
-</a>
-
-<a href="YOUR_INSTAGRAM">
-
-<img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram">
-
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail">
-
-</a>
-
-</p>
-
----
+# 💻 INITIALIZING ENGINEER PROFILE
 
 ```bash
+
 guest@wrldsolutions:~$
 
-Thank you for visiting my profile.
+whoami
 
-Building the future one commit at a time.
+Aldrine Etyang
 
-$ █
+-------------------------------------
+
+✔ Founder
+
+✔ Full Stack Engineer
+
+✔ Solution Architect
+
+✔ AI Automation Engineer
+
+✔ Linux Enthusiast
+
+✔ Laravel Developer
+
+✔ Next.js Developer
+
+✔ Open Source Contributor
+
+✔ Problem Solver
+
+-------------------------------------
+
+Mission Loaded...
+
+█████████████████████████ 100%
+
+Launching Digital Future...
+
 ```
+
+---
+
+# ⚡ ABOUT ME
+
+> *"I don't just write code—I engineer digital ecosystems."*
+
+I'm a Full Stack Software Engineer and Founder of **WRLD SOLUTIONS**, where I design and build enterprise-grade software that helps businesses operate smarter through automation, artificial intelligence, cloud technologies, and scalable system architecture.
+
+My passion lies in transforming ideas into production-ready solutions—from system architecture and UI/UX design to backend engineering, DevOps, API integrations, and AI-powered automation.
+
+Every project I build is driven by one philosophy:
+
+> **Technology should solve real-world problems, scale effortlessly, and create meaningful impact.**
+
+---
+
+<p align="center">
+
+## ⚡ CURRENTLY BUILDING
+
+</p>
+
+| Project | Status |
+|----------|--------|
+| 🚚 RealTrack | 🟢 Active Development |
+| 👨‍💼 Smart Staff Management Platform | 🟢 Active Development |
+| 🌍 WRLD SOLUTIONS Website | 🟢 Active Development |
+| 🤖 AI Automation Lab | 🟢 Research & Development |
+| ☁ Cloud Infrastructure | 🟢 Learning |
+| 🚀 Open Source Projects | 🟢 Ongoing |
+
+---
