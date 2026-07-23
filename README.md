@@ -101,19 +101,6 @@ Redis                                 n8n
 
 SQLite                                LangChain
 
-AI                                    Prompt Engineering
-
-███████████████████
-
-OpenAI
-
-Ollama
-
-n8n
-
-LangChain
-
-Prompt Engineering
 
 Building technology that empowers people and organizations across Africa and beyond.
 
