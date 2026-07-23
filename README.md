@@ -75,43 +75,33 @@ System Health   :: OPERATIONAL
 
 TECHNOLOGY RADAR
 
-Frontend
+Frontend                                    Backend
 
-███████████████████
+███████████████████                 ███████████████████
 
-Laravel
+Laravel                              PHP
 
-Next.js
+Next.js                              Python
 
-React
+React                                Node.js
 
-Tailwind
+Tailwind                             REST APIs
 
-Backend
 
-███████████████████
 
-PHP
+Databases                                  AI
 
-Python
+███████████████████                  ███████████████████
 
-Node.js
+PostgreSQL                            OpenAI
 
-REST APIs
+MySQL                                 Ollama
 
-Databases
+Redis                                 n8n
 
-███████████████████
+SQLite                                LangChain
 
-PostgreSQL
-
-MySQL
-
-Redis
-
-SQLite
-
-AI
+AI                                    Prompt Engineering
 
 ███████████████████
 
