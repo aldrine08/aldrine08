@@ -32,6 +32,9 @@
 <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge">
 
 </p>
+---
+
+# 🌍 SYSTEM STATUS
 
 | Project | Status |
 |----------|--------|
@@ -42,10 +45,6 @@
 | ☁ Cloud Infrastructure | 🟢 Learning |
 | 🚀 Open Source Projects | 🟢 Ongoing |
 
-
----
-
-# 🌍 SYSTEM STATUS
 
 ```text
 
