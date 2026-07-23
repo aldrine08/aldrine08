@@ -117,7 +117,8 @@ Building technology that empowers people and organizations across Africa and bey
 
 ---
 ````markdown
-# 🚀 INITIALIZING ENGINEER PROFILE
+
+🚀 INITIALIZING ENGINEER PROFILE
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00F7FF&center=false&vCenter=true&multiline=true&width=850&height=120&lines=booting+wrld.solutions+kernel...;authenticating+engineer+identity...;loading+skills+and+mission...;system+ready+%E2%9C%94" alt="Typing SVG" />
 
